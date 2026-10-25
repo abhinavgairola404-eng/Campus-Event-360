@@ -5,11 +5,11 @@ Team Members:
 <br>
 1.) Abhinav Gairola (Leader)
 <br>
-2.) Akash Negi
+2.) Aka Negi
 <br>
-3.) Himanshu Chhetri
+3.) Himans u Chhetri
 <br>
-4.) Ashish Panwar
+4.) As hish Panwar
 <br>
 Fork
 
